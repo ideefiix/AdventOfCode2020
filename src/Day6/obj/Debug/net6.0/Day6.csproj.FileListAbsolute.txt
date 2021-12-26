@@ -1,0 +1,15 @@
+C:\Users\flind\Desktop\AdventOfCode2020\src\Day6\bin\Debug\net6.0\Day6.exe
+C:\Users\flind\Desktop\AdventOfCode2020\src\Day6\bin\Debug\net6.0\Day6.deps.json
+C:\Users\flind\Desktop\AdventOfCode2020\src\Day6\bin\Debug\net6.0\Day6.runtimeconfig.json
+C:\Users\flind\Desktop\AdventOfCode2020\src\Day6\bin\Debug\net6.0\Day6.dll
+C:\Users\flind\Desktop\AdventOfCode2020\src\Day6\bin\Debug\net6.0\ref\Day6.dll
+C:\Users\flind\Desktop\AdventOfCode2020\src\Day6\bin\Debug\net6.0\Day6.pdb
+C:\Users\flind\Desktop\AdventOfCode2020\src\Day6\obj\Debug\net6.0\Day6.csproj.AssemblyReference.cache
+C:\Users\flind\Desktop\AdventOfCode2020\src\Day6\obj\Debug\net6.0\Day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flind\Desktop\AdventOfCode2020\src\Day6\obj\Debug\net6.0\Day6.AssemblyInfoInputs.cache
+C:\Users\flind\Desktop\AdventOfCode2020\src\Day6\obj\Debug\net6.0\Day6.AssemblyInfo.cs
+C:\Users\flind\Desktop\AdventOfCode2020\src\Day6\obj\Debug\net6.0\Day6.csproj.CoreCompileInputs.cache
+C:\Users\flind\Desktop\AdventOfCode2020\src\Day6\obj\Debug\net6.0\Day6.dll
+C:\Users\flind\Desktop\AdventOfCode2020\src\Day6\obj\Debug\net6.0\ref\Day6.dll
+C:\Users\flind\Desktop\AdventOfCode2020\src\Day6\obj\Debug\net6.0\Day6.pdb
+C:\Users\flind\Desktop\AdventOfCode2020\src\Day6\obj\Debug\net6.0\Day6.genruntimeconfig.cache
